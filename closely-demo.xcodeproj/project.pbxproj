@@ -23,14 +23,14 @@
 		6AC0778713B26F83005DF186 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		6AC0778913B26F83005DF186 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6AC0778B13B26F83005DF186 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		6AC0778F13B26F83005DF186 /* closely-demo-Info.plist */ = {isa = PBXFileReference; path = "closely-demo-Info.plist"; sourceTree = "<group>"; };
+		6AC0778F13B26F83005DF186 /* closely-demo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "closely-demo-Info.plist"; sourceTree = "<group>"; };
 		6AC0779113B26F83005DF186 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		6AC0779313B26F83005DF186 /* closely-demo-Prefix.pch */ = {isa = PBXFileReference; path = "closely-demo-Prefix.pch"; sourceTree = "<group>"; };
+		6AC0779313B26F83005DF186 /* closely-demo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "closely-demo-Prefix.pch"; sourceTree = "<group>"; };
 		6AC0779413B26F83005DF186 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6AC0779613B26F83005DF186 /* closely_demoAppDelegate.h */ = {isa = PBXFileReference; path = closely_demoAppDelegate.h; sourceTree = "<group>"; };
+		6AC0779613B26F83005DF186 /* closely_demoAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = closely_demoAppDelegate.h; sourceTree = "<group>"; };
 		6AC0779713B26F83005DF186 /* closely_demoAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = closely_demoAppDelegate.m; sourceTree = "<group>"; };
 		6AC0779A13B26F83005DF186 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		6AC0779C13B26F83005DF186 /* closely_demoViewController.h */ = {isa = PBXFileReference; path = closely_demoViewController.h; sourceTree = "<group>"; };
+		6AC0779C13B26F83005DF186 /* closely_demoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = closely_demoViewController.h; sourceTree = "<group>"; };
 		6AC0779D13B26F83005DF186 /* closely_demoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = closely_demoViewController.m; sourceTree = "<group>"; };
 		6AC077A013B26F83005DF186 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/closely_demoViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
